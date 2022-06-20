@@ -1,4 +1,4 @@
-# Cookie-Clicker-Pro
+# Cookie Clicker Pro
 ## **PLEASE READ THIS OR THE GAME WON'T WORK!!**
 
 TO RUN THE GAME:
@@ -13,19 +13,13 @@ That is all!
 
 Credits:
 
-DaxCodes/DaRedDeveloper: https://replit.com/@DaxCodes
+DaxCodes/DaRedDeveloper: https://replit.com/@DaxCodes or https://github.com/DaRedDeveloper
 
-sqcodes: https://replit.com/@sqcodes
+sqcodes: https://replit.com/@sqcodes or https://github.com/sqscripter
 
-# Extra Cookie Content 😉: https://replit.com/@DaxCodes/Hacked-Cookie-Clicker?v=1
+# Check out the older one here: 
 
-#### open that extra content in a new tab for other content that we were thinkin about buuut never made it in lol.
+https://cookie-clicker.applecoders.repl.co
 
 ---------------
-
-## Cookie Code Streams
-
-We will possibly start streaming on YouTube on how we make Cookie Clicker!
-
-Channel Link: https://www.youtube.com/channel/UC0nPLeSIqTrynkW5JM0TlGA
-
+# Please Enjoy and have fun!
