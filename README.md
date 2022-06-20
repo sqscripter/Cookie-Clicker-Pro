@@ -1,4 +1,4 @@
-# Cookie Clicker Pro
+# Cookie Clicker Pro🍪
 ## **PLEASE READ THIS OR THE GAME WON'T WORK!!**
 
 TO RUN THE GAME:
@@ -8,8 +8,8 @@ TO RUN THE GAME:
 
 
 That is all!
---------------------------------------------------
 
+🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
 
 Credits:
 
@@ -21,5 +21,5 @@ sqcodes: https://replit.com/@sqcodes or https://github.com/sqscripter
 
 https://cookie-clicker.applecoders.repl.co
 
----------------
-# Please Enjoy and have fun!
+🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
+# Please Enjoy and have fun!🍪
